@@ -7841,6 +7841,7 @@ textarea.form-control-lg {
 }
 
 .bg-light2 {
+  background-color: #000;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/RollingBeats.jpg");
   padding-top: 10rem;
   padding-bottom: 10rem;
@@ -11497,6 +11498,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  background-color: #000;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Tina.jpg");
   background-position: center center;
   background-repeat: no-repeat;
