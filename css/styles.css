@@ -7841,8 +7841,7 @@ textarea.form-control-lg {
 }
 
 .bg-light2 {
-  --bs-bg-opacity: 1;
-  background: url("../assets/img/RollingBeats.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/RollingBeats.jpg");
 }
 
 .bg-dark {
@@ -11300,6 +11299,7 @@ html {
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/RollingBeats.jpg");
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
