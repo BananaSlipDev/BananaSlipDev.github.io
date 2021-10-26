@@ -7844,6 +7844,8 @@ textarea.form-control-lg {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/RollingBeats.jpg");
   padding-top: 10rem;
   padding-bottom: 10rem;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .bg-dark {
@@ -11498,7 +11500,7 @@ footer.footer .social-link:hover {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Tina.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 .masthead h1, .masthead .h1 {
   font-size: 4rem;
