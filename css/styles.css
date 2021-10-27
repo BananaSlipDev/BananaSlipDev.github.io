@@ -3240,10 +3240,12 @@ textarea.form-control-lg {
 
 .btn-dark {
   color: #fff;
-  background-color: #212529;
+  background-color: transparent;
+  opacity: 0.5;
   border-color: #212529;
 }
 .btn-dark:hover {
+  opacity: 1;
   color: #fff;
   background-color: #1c1f23;
   border-color: #1a1e21;
@@ -11494,7 +11496,7 @@ footer.footer .social-link:hover {
   min-height: 30rem;
   position: relative;
   display: table;
-  width: 100%;
+  width: 70%;
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
