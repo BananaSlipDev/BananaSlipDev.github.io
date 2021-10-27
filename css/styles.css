@@ -3239,16 +3239,16 @@ textarea.form-control-lg {
 }
 
 .btn-dark {
-  color: #fff;
-  background-color: transparent;
-  opacity: 0.5;
-  border-color: #212529;
+  color: #F28705;
+  background-color:#0D1440 ;
+  opacity: 0.7;
+  border-color: #0D1440;
 }
 .btn-dark:hover {
   opacity: 1;
-  color: #fff;
-  background-color: #1c1f23;
-  border-color: #1a1e21;
+  color: #F28705;
+  background-color: #0D1440;
+  border-color: #F28705;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {
   color: #fff;
@@ -11308,8 +11308,8 @@ html {
   padding-bottom: 7.5rem;
 }
 .content-section2 {
-  padding-top: 9rem;
-  padding-bottom: 10rem;
+  padding-top: 11rem;
+  padding-bottom: 11rem;
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
@@ -11496,14 +11496,15 @@ footer.footer .social-link:hover {
   min-height: 30rem;
   position: relative;
   display: table;
-  width: 70%;
+  width: 100%;
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #000;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Tina.jpg");
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: 70%;
+  background-color: #4A1C5A;
   
 }
 .masthead h1, .masthead .h1 {
