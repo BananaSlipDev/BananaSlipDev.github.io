@@ -87,6 +87,7 @@ textarea, label {
   height: 48px;
   line-height: 50px;
   padding: 0 42px;
+  text-align: center;
   text-transform: uppercase; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus {
     background-color: #f9423a; }
@@ -235,7 +236,8 @@ textarea, label {
 .page-title {
   margin-bottom: 75px; }
   .page-title img {
-    margin-bottom: 20px; }
+    margin-bottom: 20px; 
+    position: inherit;}
   .page-title h2 {
     font-size: 68px;
     margin-bottom: 25px;
