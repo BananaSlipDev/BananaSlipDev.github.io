@@ -92,7 +92,7 @@
 		        $(form).ajaxSubmit({
 		            type: "POST",
 		            data: $(form).serialize(),
-		            url : "mailto:BananaSlipDev@gmail.com",
+		            url : "mail.php",
 		            success: function() {
 		                $(".contact-form").fadeTo( "slow", 1, function() {
 		                    $(".contact-form .msg-success").slideDown();
