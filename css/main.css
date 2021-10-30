@@ -35,11 +35,11 @@ p {
  * Selection color
  */
 ::-moz-selection {
-  background-color: #FA6862;
+  background-color: #F2C12E;
   color: #fff; }
 
 ::selection {
-  background-color: #FA6862;
+  background-color: #F2C12E;
   color: #fff; }
 
 /*
@@ -80,7 +80,7 @@ textarea, label {
     outline: 0 none; }
 
 .btn-primary {
-  background-color: #FA6862;
+  background-color: #F2C12E;
   border: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
@@ -130,7 +130,7 @@ textarea, label {
 
 .primary,
 .link:hover {
-  color: #FA6862; }
+  color: #F2C12E; }
 
 .no-gutter {
   margin-left: 0;
@@ -161,7 +161,7 @@ textarea, label {
   justify-content: space-between; }
 
 .nicescroll-cursors {
-  background: #FA6862 !important; }
+  background: #F2C12E !important; }
 
 .preloader {
   bottom: 0;
@@ -179,7 +179,7 @@ textarea, label {
     display: none; }
 
 .loading-mask {
-  background-color: #FA6862;
+  background-color: #F2C12E;
   height: 100%;
   left: 0;
   position: absolute;
@@ -224,7 +224,7 @@ textarea, label {
 	Start Styling
 -------------------------------------------------*/
 .site-wrapper {
-  border-top: 4px solid #FA6862; }
+  border-top: 4px solid #F2C12E; }
 
 .page-close {
   font-size: 30px;
@@ -285,7 +285,7 @@ textarea, label {
       width: 96px;
       bottom: 14px; }
     .section-title h3::after {
-      background-color: #FA6862;
+      background-color: #F2C12E;
       width: 73px; }
   .section-title.light h3 {
     color: #fff; }
@@ -352,7 +352,7 @@ textarea, label {
         height: 15px; }
     .hexagon-item:hover .hex-item div::before,
     .hexagon-item:hover .hex-item div::after {
-      background-color: #FA6862; }
+      background-color: #F2C12E; }
     .hexagon-item:hover .hex-content svg {
       -webkit-transform: scale(0.97);
       -moz-transform: scale(0.97);
@@ -556,7 +556,7 @@ textarea, label {
     -ms-flex-positive: 1;
     flex-grow: 1; }
   .progress .bar {
-    background-color: #FA6862;
+    background-color: #F2C12E;
     border-radius: 10px;
     height: 8px;
     width: 0; }
@@ -579,8 +579,8 @@ textarea, label {
   .filter a {
     border-bottom: 2px solid transparent; }
   .filter .active {
-    color: #FA6862;
-    border-bottom-color: #FA6862; }
+    color: #F2C12E;
+    border-bottom-color: #F2C12E; }
 
 .works-item {
   font-family: "Open Sans", sans-serif;
@@ -628,7 +628,7 @@ textarea, label {
     -o-transform: translate3d(0px, 0px, 0px) scale(0);
     transform: translate3d(0px, 0px, 0px) scale(0); }
   .works-item h4 {
-    color: #FA6862;
+    color: #F2C12E;
     font-weight: 700;
     text-transform: uppercase; }
   .works-item p {
@@ -778,7 +778,7 @@ textarea, label {
       -o-transform: scale(1.5);
       transform: scale(1.5); }
     .service-hex:hover .st1 {
-      fill: #FA6862; }
+      fill: #F2C12E; }
     .service-hex:hover .content {
       width: 135%; }
     .service-hex:hover p {
@@ -838,7 +838,7 @@ textarea, label {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   .testimonials .owl-dot.active {
-    border-color: #FA6862; }
+    border-color: #F2C12E; }
 
 .tm-hex {
   position: relative;
@@ -948,11 +948,11 @@ textarea, label {
       -o-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .contact-social li:hover span {
-      background-color: #FA6862; }
+      background-color: #F2C12E; }
       .contact-social li:hover span::before {
-        border-bottom-color: #FA6862; }
+        border-bottom-color: #F2C12E; }
       .contact-social li:hover span::after {
-        border-top-color: #FA6862; }
+        border-top-color: #F2C12E; }
 
 .contact-social-hex {
   display: block;
@@ -983,9 +983,9 @@ textarea, label {
     width: 0;
     border-top: 12.41px solid #1e2530; }
   .contact-social-hex:hover::after {
-    border-bottom-color: #FA6862; }
+    border-bottom-color: #F2C12E; }
   .contact-social-hex:hover::before {
-    border-top-color: #FA6862; }
+    border-top-color: #F2C12E; }
 
 .contact-form .input-field {
   margin-bottom: 10px; }
@@ -1040,7 +1040,7 @@ textarea, label {
   margin-top: 15px; }
 
 .msg-success {
-  color: #FA6862; }
+  color: #F2C12E; }
 
 .pt-table.desktop-768 .pt-tablecell {
   padding-bottom: 110px;
@@ -1141,16 +1141,16 @@ textarea, label {
   cursor: pointer; }
 
 .color-options li.c0 {
-  background-color: #FA6862; }
+  background-color: #F2C12E; }
 
 .color-options li.c1 {
-  background-color: #02B7CE; }
+  background-color: #16226d; }
 
 .color-options li.c2 {
-  background-color: #86A438; }
+  background-color: #F28705; }
 
 .color-options li.c3 {
-  background-color: #d8ce47; }
+  background-color: #D9077A; }
 
 .pattern-options li {
   font-family: "Roboto", sans-serif;
